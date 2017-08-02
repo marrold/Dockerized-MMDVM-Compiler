@@ -1,4 +1,4 @@
-This is a Dockerfile that will build a container for compiling MMDVM. It was created as an experiemnt, but I will leave it here for posterity.
+This is a Dockerfile that will build a container for compiling MMDVM. It was created as an experiement, but I will leave it here for posterity.
 
 ## Instructions
 
