@@ -9,7 +9,7 @@ cd /usr/src
 
 git clone https://github.com/marrold/Dockerized-MMDVM-Compiler.git
 
-cd Dockerized-MMDVM-Compiler.git
+cd Dockerized-MMDVM-Compiler
 
 git clone https://github.com/g4klx/MMDVM.git
 
