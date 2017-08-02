@@ -1,6 +1,6 @@
 This is a Dockerfile that will build a container for compiling MMDVM. It was created as an experiemnt, but I will leave it here for posterity.
 
-==Instructions==
+## Instructions
 
 These instructions are aimed for OSX / Linux based devices.
 
