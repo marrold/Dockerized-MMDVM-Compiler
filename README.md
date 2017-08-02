@@ -16,11 +16,13 @@ git clone https://github.com/g4klx/MMDVM.git
 cd MMDVM
 
 git clone https://github.com/juribeparada/STM32F4XX_Lib.git
+
+cd ..
 ```
 
 Edit your Config.h !!!
 
 ```
 docker build -t USER/MMDVMbuilder .
-docker run -it -v $(pwd):/tmp/MMDVM mmdvmbuilder make
+docker run -it -v $(pwd)/MMDVM:/tmp/MMDVM mmdvmbuilder make
 ```
